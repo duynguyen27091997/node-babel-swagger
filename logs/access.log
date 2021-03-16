@@ -112,3 +112,4 @@ GET /notifications 304 - - 0.605 ms
 GET /notifications/1 304 - - 0.508 ms
 GET /notifications 304 - - 0.343 ms
 GET /notifications/1 304 - - 0.237 ms
+GET / 404 139 - 3.190 ms
